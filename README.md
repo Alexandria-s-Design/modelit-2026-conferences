@@ -67,3 +67,11 @@ This will re-validate all websites, capture new screenshots, and generate update
 
 For questions about this database or validation methodology:
 **Alexandria's Design** - Educational Technology Solutions
+
+## Status
+Active
+
+## TODO
+- [ ] Update conference submission deadlines
+- [ ] Prepare abstracts for key conferences
+- [ ] Track acceptance notifications
